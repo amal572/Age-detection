@@ -1,0 +1,9 @@
+model 1
+Increase the number of Max pooling
+use three Max pooling
+
+model 2
+Increase the number of epoch 50 and Increase the number of Max pooling use three Max pooling
+
+model 3
+use ResNet50
